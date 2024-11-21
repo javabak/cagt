@@ -3,7 +3,6 @@ package referat1;
 public class Main {
     public static void main(String[] args) {
         Graph graph = new Graph();
-
         graph.addEdge(3, 1);
         graph.addEdge(1, 4);
         graph.addEdge(1, 2);
