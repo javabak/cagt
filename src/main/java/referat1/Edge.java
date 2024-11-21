@@ -1,4 +1,4 @@
-package referat;
+package referat1;
 
 import lombok.Getter;
 

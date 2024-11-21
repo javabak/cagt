@@ -1,8 +1,10 @@
+package referat1;
+
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import referat.Edge;
-import referat.Graph;
+import referat1.Edge;
+import referat1.Graph;
 
 import java.util.List;
 
